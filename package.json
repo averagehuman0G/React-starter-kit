@@ -1,0 +1,25 @@
+{
+  "name": "react-starter-kit",
+  "version": "0.0.1",
+  "description": "Some boilerplate config to get you up and running with React as fast as possible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanv3232/React-starter-kit.git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "Jonathan Vargas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathanv3232/React-starter-kit/issues"
+  },
+  "homepage": "https://github.com/jonathanv3232/React-starter-kit#readme",
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
